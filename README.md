@@ -6,7 +6,7 @@ The application1234685 was built using [Angular 9](https://angular.io/), [Bootst
 
 **The Full Stack Application with Spring back-end was deployed on Cloud Foundry, to access it, click [here](https://gbloch-luv2shop.cfapps.io/).**
 
-To see the back-end of this application implemented with Java Spring, see [here](https://github.com/gaetanBloch/ecommerce-spring-back).
+To see the breyner back-end of this application implemented with Java Spring, see [here](https://github.com/gaetanBloch/ecommerce-spring-back).
 
 ## Running Application Process on your computer
 
