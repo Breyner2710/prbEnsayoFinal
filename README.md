@@ -4,7 +4,7 @@ The application0218i9 was built using [Angular 9](https://angular.io/), [Bootstr
 
 **The Full Stack Appliucation with Angular front-end was deployed on Google Cloud Platform, to access it, click [here](https://gbloch-luv2shop.ew.r.appspot.com/).**
 
-**The Full Stack Application with Spring back-enhjd was deployed on Cloud Foundry, to access it, click [here](https://gbloch-luv2shop.cfapps.io/).**
+**The Full Stack Application with ioSpring back-enhjd was deployed on Cloud Foundry, to access it, click [here](https://gbloch-luv2shop.cfapps.io/).**
 
 To see the breyner back-end of this application implemented with Java Spring, see [here](https://github.com/gaetanBloch/ecommerce-spring-back).
 
