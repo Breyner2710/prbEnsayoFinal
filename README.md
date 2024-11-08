@@ -1,6 +1,6 @@
 # E-commerce Application Front-Endv5
 
-The application0218i9 was built using [Angular 9](https://angular.io/), [Bootstrap 4](https://getbootstrap.com/docs/4.4/getting-started/introduction/) and [ng-boostrap](https://ng-bootstrap.github.io/#/home). It is an Angular based front-end for the e-commerce Application called **luv2shop**. 
+The application0218i901 was built using [Angular 9](https://angular.io/), [Bootstrap 4](https://getbootstrap.com/docs/4.4/getting-started/introduction/) and [ng-boostrap](https://ng-bootstrap.github.io/#/home). It is an Angular based front-end for the e-commerce Application called **luv2shop**. 
 
 **The Full Stack Appliucation with Angular front-end was deployed on Google Cloud Platform, to access it, click [here](https://gbloch-luv2shop.ew.r.appspot.com/).**
 
